@@ -1,1 +1,1 @@
-# Jupyter1_repo
+# Consist of basic use of python written in jupyter notebook
